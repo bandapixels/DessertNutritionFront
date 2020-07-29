@@ -1,0 +1,12 @@
+.table-helper {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.button-section button:first-child {
+    margin-right: 5px;
+}
+
+.button-section button:last-child {
+    margin-left: 5px;
+}

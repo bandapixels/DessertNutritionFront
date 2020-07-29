@@ -1,0 +1,17 @@
+@import "~tachyons";
+@import "~tachyons/src/_font-family.css";
+
+*, body, div, button {
+    font-family: Consolas,
+    monaco,
+    monospace !important;
+}
+
+.section {
+    padding: 10px;
+    margin: 20px 10px;
+}
+
+.headline {
+    margin: 0;
+}

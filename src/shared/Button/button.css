@@ -1,0 +1,13 @@
+@import "~tachyons/src/_colors.css";
+
+.submit,
+.new,
+.remove {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.remove:disabled {
+    cursor: default;
+    filter: opacity(20%);
+}
